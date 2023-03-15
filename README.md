@@ -1,2 +1,2 @@
 # Projetos-SoulCode
-Projetos em Python integrados com Cloud desenvolvidos durante o Bootcamp da SoulCode Academy.
+Projetos e atividades propostas em Python desenvolvidos durante o Bootcamp da SoulCode Academy.
